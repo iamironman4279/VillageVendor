@@ -42,5 +42,5 @@ VillageVendor is a full-stack application built using the MERN stack (MongoDB, E
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/villagevendor.git
+git clone https://github.com/iamironman4279/villagevendor.git
 cd villagevendor
